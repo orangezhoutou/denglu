@@ -8,6 +8,9 @@ import http from '@/request';
 
 console.log('我是一代GG Bond');
 
+console.log('我是二代GG Bond');
+
+
 Vue.config.productionTip = false;
 Vue.use(ElementUI);
 Vue.prototype.$http = http; 
