@@ -5,6 +5,7 @@ import ElementUI from 'element-ui';
 import 'element-ui/lib/theme-chalk/index.css';
 import http from '@/request';
 
+console.log(1111111111111);
 
 console.log('我是一代GG Bond');
 
