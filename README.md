@@ -2,7 +2,7 @@
 ```shell
 git comfig [--global] user.name 名称   配置名字
 git config [--global] user.email 191497152@qq.com  配置邮箱号 git注册的邮箱号 
-# git --list 查看配置
+# git config --list 查看工作区状态
 ```
 
 # Git仓库初始化
